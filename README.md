@@ -18,3 +18,5 @@ If that does not resolve your issue, please post to the [discussion board for th
 <b>NOTE: We are currently discussing the appropriate time to update the course to the current Angular version.</b>
 
 NOTE: The installation was tested using node v5.0.0 and npm 3.8.6.
+
+Angular2 Template
